@@ -8,7 +8,8 @@ langgraph
 catboost
 pymongo[srv]==3.12
 bcrypt
-scikit-learn
+scikit-learn==1.6.1
 pydantic
 google-genai
 python-dotenv
+
