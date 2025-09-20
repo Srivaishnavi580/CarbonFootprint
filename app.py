@@ -1,3 +1,8 @@
+import os
+os.environ['MONGODB_URI'] = 'mongodb+srv://Batch8:202170009@carbonfootprint.xz4baai.mongodb.net/?retryWrites=true&w=majority&appName=CarbonFootprint'
+os.environ['TAVILY_API_KEY'] = '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'
+os.environ['GOOGLE_API_KEY'] = 'AIzaSyAE0YpQdDIIyKxo7IbKZnQcLMyJ7WC6sqg'
+
 import streamlit as st
 import pandas as pd
 import numpy as np
