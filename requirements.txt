@@ -10,4 +10,5 @@ pymongo[srv]==3.12
 bcrypt
 scikit-learn
 pydantic
+google-genai
 python-dotenv
