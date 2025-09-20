@@ -1,1 +1,3 @@
 MONGODB_URI=mongodb+srv://Batch8:202170009@carbonfootprint.xz4baai.mongodb.net/?retryWrites=true&w=majority&appName=CarbonFootprint
+TAVILY_API_KEY=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
+GOOGLE_API_KEY=AIzaSyAE0YpQdDIIyKxo7IbKZnQcLMyJ7WC6sqg
