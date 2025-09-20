@@ -1,0 +1,13 @@
+streamlit
+pandas
+numpy
+plotly
+langchain-tavily
+langchain-google-genai
+langgraph
+catboost
+pymongo[srv]==3.12
+bcrypt
+scikit-learn
+pydantic
+python-dotenv

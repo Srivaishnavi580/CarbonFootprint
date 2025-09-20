@@ -1,0 +1,13 @@
+Features,Importance
+distance_to_grid_km,63.94450026112
+operating_temp_celsius,29.078805014538535
+plant_age_years,4.120635256433421
+fuel_type,1.9381521298122655
+efficiency_percent,0.3659321081976242
+capacity_factor_percent,0.217585319989364
+maintenance_factor,0.09508411401559151
+region,0.08122244625897307
+grid_demand_mw,0.07368643844881702
+load_factor,0.047629844963584016
+weather_impact_factor,0.02027684400055403
+electricity_generated_mwh,0.016490222221281714
